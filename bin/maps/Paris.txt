@@ -1,0 +1,8 @@
+100,100,Rond
+200,200,Carre
+300,300,Triangle
+400,200,Rond
+300,100,Rond
+600,150,Rond
+600,500,Carre
+750,500,Carre
